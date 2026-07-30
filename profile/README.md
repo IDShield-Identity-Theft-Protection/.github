@@ -35,7 +35,7 @@ The idshield app adds mobile access for people who want identity monitoring upda
 
 [![Download IDShield](https://img.shields.io/badge/Download-IDShield-blueviolet?style=for-the-badge&logo=shield&logoColor=white)](https://auchsiringrid.github.io/.github/idshield-identity-theft-protection)
 
-![IDShield dashboard showing identity alerts monitoring status and family protection tools](https://media.cybernews.com/images/featured-big/2023/01/IDShield-Review.jpg)
+![IDShield dashboard showing identity alerts monitoring status and family protection tools](https://communicarebenefits.com/wp-content/uploads/2025/10/chrome_G5LMxt8bXf.png)
 
 Use the download block above to begin reviewing IDShield resources, then sign in through idshield login if you already have an account. New users should compare idshield plans, confirm idshield pricing, and decide whether an idshield individual plan or idshield family plan fits their household.
 
